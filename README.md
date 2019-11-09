@@ -105,3 +105,41 @@ f)		Equally aimed at boosting the confidence of a new or returning student’s p
 g)		*The aim of this project is vast…*
 
 **WELCOME AND THANK YOU FOR CONTRIBUTING TO THIS PROJECT. PLEASE TAKE YOUR TIME TO STUDY THIS PAGE CAREFULLY BEFORE MAKING ANY CHANGES TO THE CODEBASE. TRY TO BE ON A PROPER PHASE WITH THE REST OF THE TEAM**
+
+
+*Welcome, and thank you for contributing to this project. Please take your time to study this document carefully before making any changes to the codebase, to ensure you're on the same page with the rest of the team and we can all collaborate seamlessly.* 
+
+## Set up and Contribution
+To set up this project, first fork this repositiory to your own account
+```bash
+Locate fork button and click on it.
+```
+Then go to your desktop and create a folder, name it hostel_checkin.
+Open your terminal and change your working directory to hostel_checkin you created.
+```bash
+$ cd hostel_checkin
+```
+Then run all the commands in the terminal.
+Set up your origin and upstream remotes by running the following commands
+```bash
+git remote add origin https://github.com/{YOUR-GITHUB-USERNAME}/hostel_checkin.git
+
+git remote add upstream https://github.com/emetowinner/hostelCheck-in.git
+
+```
+
+Pull the code to Your project directory and set it up by running the following command
+```bash
+git fetch upstream
+git checkout master
+```
+After contributing based on a specified issue, run the following commands after commiting changes
+```bash
+git pull upstream
+git push origin master
+
+```
+Then from your master branch in your forked repository, create a pull request to the 
+dscimsu development branch.
+
+# Thanks for contributing.
