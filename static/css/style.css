@@ -62,3 +62,16 @@
 .overlay-image .hover {
   background-color: rgba(0,0,0,0.5);
 }
+
+/* Signup form style starts here */
+.formResize{
+  width: auto;
+  margin: auto;
+}
+/* Signup form style starts here */
+
+.signUpBG{
+  background-image: url('../../static/img/svg/undraw_build_your__home_csh6.svg');
+  background-repeat: no-repeat;
+  background: cover;
+}
