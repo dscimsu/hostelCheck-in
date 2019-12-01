@@ -124,7 +124,7 @@ Set up your origin and upstream remotes by running the following commands
 ```bash
 git remote add origin https://github.com/{YOUR-GITHUB-USERNAME}/hostel_checkin.git
 
-git remote add upstream https://github.com/emetowinner/hostelCheck-in.git
+git remote add upstream https://github.com/dscimsu/hostelCheck-in.git
 
 ```
 
