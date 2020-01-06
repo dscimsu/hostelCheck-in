@@ -10,7 +10,7 @@ I.		Content Developers/Writers
 
 II.		Designers
 
-III.		Front-end Developers
+III.	Front-end Developers
 
 IV.		Back-end Developers (Python, Django and Firebase)
 
